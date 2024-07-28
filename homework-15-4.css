@@ -1,0 +1,146 @@
+aside {
+  width: 10%;
+  background-color: #1f1e1e;
+  height: 98vh;
+  display: inline-block;
+  float: left;
+}
+.fa-utensils {
+  font-size: 60px;
+  /* margin: 30px 0px 50px 45px; */
+  color: rgb(24, 113, 138);
+  background-color: white;
+  padding: 10px;
+}
+.aside-div {
+  padding: 14px;
+  background-color: rgb(24, 113, 138);
+  margin: 10px;
+}
+.i {
+  font-size: 35px;
+  text-align: center;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+.li {
+  list-style: none;
+  padding: 20px;
+  font-size: 17px;
+  color: rgb(167, 164, 164);
+  text-align: center;
+}
+.pro {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  margin: 50px 10px 10px 20px;
+  display: inline-block;
+  float: left;
+}
+nav {
+  background-color: #1f1e1e;
+  height: 125px;
+}
+.title {
+  color: white;
+  font-size: 37px;
+  box-sizing: border-box;
+  padding-top: 6px;
+  padding-left: 30px;
+  font-family: Bradley Hand ITC;
+  float: left;
+}
+.ad {
+  color: aliceblue;
+  margin-left: 950px;
+  display: inline-block;
+  float: left;
+  margin-top: 50px;
+}
+.pro {
+  display: inline-block;
+  margin-top: 40px;
+}
+.b {
+  list-style: none;
+  display: inline-block;
+  text-align: center;
+  margin-top: 14px;
+  margin-left: 15px;
+}
+.div-1 {
+  border: 1px solid rgb(24, 113, 138);
+  height: 60vh;
+  margin: 20px;
+  margin-left: 185px;
+  width: 86%;
+}
+.head {
+  height: 30px;
+  background-color: rgb(24, 113, 138);
+  padding-left: 20px;
+  padding-top: 10px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: aliceblue;
+}
+.label {
+  padding: 0px 5px 5px 20px;
+  margin-top: 20px;
+}
+input{
+    margin: 0px 6px;
+}
+.text{
+    float: right;
+    margin-right: 20px;
+}
+tr,
+td,
+th {
+  border-bottom: 1px solid rgb(149, 148, 148);
+  padding: 8px;
+}
+i {
+  padding: 5px 6px;
+}
+table {
+    margin-top: 30px;
+    
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+.fa-user {
+  background-color: rgb(18, 218, 218);
+  border-radius: 4px;
+  color: white;
+}
+/* .a{
+border-radius: 100%;
+background-color: rgb(18, 218, 218);
+} */
+.fa-home {
+  background-color: rgb(178, 65, 48);
+  border-radius: 4px;
+  color: white;
+}
+
+.fa-pen {
+  background-color: rgb(38, 171, 207);
+  border-radius: 4px;
+  color: white;
+}
+tr:nth-child(even) {
+  background-color: rgb(235, 239, 235);
+}
+.color{
+    background-color: rgb(178, 65, 48); ;
+    padding: 5px 8px;
+    border-radius: 4px;
+}
+.color2{
+    background-color: rgb(47, 132, 48); ;
+    padding: 5px 8px;
+    border-radius: 4px;
+}
